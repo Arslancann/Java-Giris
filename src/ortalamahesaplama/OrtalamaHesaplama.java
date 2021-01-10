@@ -1,6 +1,5 @@
 package ortalamahesaplama;
 
-
 import java.util.Scanner;
 
 public class OrtalamaHesaplama {

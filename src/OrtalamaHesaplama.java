@@ -3,26 +3,29 @@ import java.util.Scanner;
 public class OrtalamaHesaplama {
 
     public static void main(String[] args) {
-        // TODO code application logic here
         
         System.out.println("HOŞGELDİNİZ");
         
-        Scanner scannerad = new Scanner (System.in);
-        System.out.print("Adınız: ");
-        String ad=scannerad.nextLine();
-        
         Scanner scanner = new Scanner (System.in);
+        
+        //kullanıcıdan isim al
+        System.out.print("Adınız: ");
+        String ad=scanner.nextLine();
+        
+        //kullanıcıdan 1.notu al
         System.out.print("1.Sınav: ");
         int kod=scanner.nextInt();
         
-        Scanner scanner2 = new Scanner (System.in);
+        //kullanıcıdan 2.notu al
         System.out.print("2.Sınav: ");
-        int kod2=scanner2.nextInt();
+        int kod2=scanner.nextInt();
         
-        Scanner scanner3 = new Scanner (System.in);
+        //kullanıcıdan 3.notu al
         System.out.print("3.Sınav: ");
-        int kod3=scanner3.nextInt();
+        int kod3=scanner.nextInt();
         
+        //kullanıcının adını yazdır
+        //kullanıcının notunu hesapla ve yazdır
         System.out.println(ad);
         System.out.println("Not Ortalamanız: " + (kod + kod2 + kod3) / 3);
             

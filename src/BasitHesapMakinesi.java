@@ -24,7 +24,7 @@ public class BasitHesapMakinesi {
         {
             int toplam = sayi1 + sayi2; //sonucu hesapla
             System.out.println("Sonuç: " + toplam); //sonucu yazdır
-        }
+}
         
         else if(tercih.equals("-")) //işlem türünü kontrol et
         {

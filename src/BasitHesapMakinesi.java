@@ -4,6 +4,7 @@ public class BasitHesapMakinesi {
     
     public static void main(String[]  args)
     {
+        //istemci oluşturma
         Scanner scanner1 = new Scanner(System.in);
         
         //birinci sayıyı kullanıcıdan al

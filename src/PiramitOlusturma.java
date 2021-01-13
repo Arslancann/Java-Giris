@@ -2,6 +2,16 @@ import java.util.Scanner;
 
 public class PiramitOlusturma {
     
+    //temiz kod olması için method oluşturma
+    public static void karakteryaz(int karaktersayisi, String karakter){
+        
+        for(int k=0; k<karaktersayisi; k++){
+            
+            System.out.print(karakter);
+            
+        }
+    }
+    
     public static void main(String[] args){
         
         Scanner scannertek = new Scanner(System.in);
@@ -17,13 +27,20 @@ public class PiramitOlusturma {
             //tek sayılarla piramit satırlarını oluştur
             for(int i=1; i<=tsayi; i+=2)
             {
-                //piramit satırı kadar * ekle
-                for(int j=1; j<=i; j++)
-                {
-                    System.out.print("*"); //ekrana yazdır
-                }
+                //boşluk sayısını hesapla
+                int bosluksay = (tsayi - i) / 2;
                 
-                System.out.println(); //alt satıra yazdır
+                //sola boşluk yazdırma
+                karakteryaz(bosluksay, " ");
+                
+                //yıldız yazdırma
+                karakteryaz(i, "*");
+                
+                //sağa boşluk yazdırma
+                karakteryaz(bosluksay, " ");
+                
+                System.out.println(); 
+                
             }
         }
         

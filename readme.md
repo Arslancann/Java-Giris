@@ -10,3 +10,6 @@ Girilen sayı büyüklüğünde piramit şekli çizen program.
 3.Soru:
 Girilen fiyatın KDV'sini hesaplayan program.
 
+4.Soru:
+Fibonacci sayısının n inci elemanını veren program.
+

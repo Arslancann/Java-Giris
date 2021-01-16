@@ -13,3 +13,6 @@ Girilen fiyatın KDV'sini hesaplayan program.
 4.Soru:
 Fibonacci sayısının n inci elemanını veren program.
 
+5.Soru:
+Girilen sayı büyüklüğünde x yazdıran program.
+

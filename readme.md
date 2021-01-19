@@ -17,10 +17,13 @@ Fibonacci sayısının n inci elemanını veren program.
 Girilen sayı büyüklüğünde x yazdıran program.
 
 6.Soru:
-Girilen boy ve en kadar diktörgen yazdıran program.
+Girilen en ve boy büyüklüğünde diktörgen yazdıran program.
 
 7.Soru
-Girilen Sayı ile kare yazdıran program.
+Girilen sayı ile kare yazdıran program.
 
+
+8.Soru:
+Girilen sayı büyüklüğünde üçgen yazdıran program.
 
 

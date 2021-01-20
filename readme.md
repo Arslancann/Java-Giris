@@ -1,8 +1,7 @@
 Java Giriş Projelerim
 
 1.Soru:
-Kullanıcıdan iki sayısal değer ve bir operand(+, -, *, /) istenecek.
-Alınan operand sayılara uygulanacak ve sonuç ekrana yazılacak.
+Girilen iki sayı ve bir operand(+, -, *, /) ile hesap yapan program.
 
 2.Soru:
 Girilen sayı büyüklüğünde piramit şekli çizen program.
@@ -26,4 +25,6 @@ Girilen sayı ile kare yazdıran program.
 8.Soru:
 Girilen sayı büyüklüğünde üçgen yazdıran program.
 
+9.Soru
+Girilen sayı büyüklüğünde N yazdıran program.(Girilen sayı 3'e eşit ve büyük olmalı)
 

@@ -19,7 +19,7 @@ public class NOlusturma {
                     {
                         System.out.print("*");                        
                     }
-                    else if((satir==sutun)||(sutun==0))
+                    else if(sutun==0)
                     {
                         System.out.print("*");
                     }

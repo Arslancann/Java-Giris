@@ -21,10 +21,12 @@ Girilen en ve boy büyüklüğünde diktörgen yazdıran program.
 7.Soru
 Girilen sayı ile kare yazdıran program.
 
-
 8.Soru:
 Girilen sayı büyüklüğünde üçgen yazdıran program.
 
-9.Soru
+9.Soru:
 Girilen sayı büyüklüğünde N yazdıran program.(Girilen sayı 3'e eşit ve büyük olmalı)
+
+10.Soru:
+Girilen sayı büyüklüğünde M yazdıran program.(Girilen sayı 3'e eşit büyük ve tek olmalı)
 

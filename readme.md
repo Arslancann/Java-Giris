@@ -30,3 +30,6 @@ Girilen sayı büyüklüğünde N yazdıran program.(Girilen sayı 3'e eşit ve 
 10.Soru:
 Girilen sayı büyüklüğünde M yazdıran program.(Girilen sayı 3'e eşit büyük ve tek olmalı)
 
+11.Soru:
+Girilen sayı büyüklüğünde Z yazdıran program.(Girilen sayı 3'e eşit ve büyük olmalı)
+

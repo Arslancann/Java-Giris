@@ -17,7 +17,7 @@ public class NOlusturma {
                 {
                     if((satir==sutun)||(sutun==ikinciyildiz))
                     {
-                        System.out.print("*");                        
+                        System.out.print("*");
                     }
                     else if(sutun==0)
                     {

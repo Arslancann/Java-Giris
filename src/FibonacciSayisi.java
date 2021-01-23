@@ -8,7 +8,7 @@ public class FibonacciSayisi {
         
         //değişkenleri tanımlayıp n.sayıyı kullanıcıdan alma
         int s1=1, s2=1, n;
-        System.out.print("Fibonacci Dizisi" +"\n \n" + "N Sayısı Giriniz: ");
+        System.out.print("Fibonacci Dizisi" +"\n" + "N Sayısı Giriniz: ");
         n = input.nextInt();
         
         //1.sayı sabit olduğu için istenirse direkt yazdırma
@@ -27,12 +27,12 @@ public class FibonacciSayisi {
             System.out.print(s1 + " " + s2);
             
             for(int f=2; f<n; f++){
-            int s3 = s1 + s2;
-            System.out.print(" " + s3 + " ");
+            int toplam = s1 + s2;
+            System.out.print(" " + toplam + " ");
             
             //ilk değeri ikinicye ikinci değeri toplama eşitliyoruz
             s1 = s2; 
-            s2 = s3; 
+            s2 = toplam; 
             }
             //n'inci sayıyı yazdırma
              System.out.println("\n" + n + ". Sayısı: " + s2);

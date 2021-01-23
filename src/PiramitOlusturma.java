@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class PiramitOlusturma {
     
     //temiz kod olması için method oluşturma
-    public static void karakteryaz(int karaktersayisi, String karakter){
+    static void karakteryaz(int karaktersayisi, String karakter){
         
         for(int k=0; k<karaktersayisi; k++){
             

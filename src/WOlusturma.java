@@ -1,24 +1,26 @@
 import java.util.Scanner;
 
-public class ZOlusturma {
+public class WOlusturma {
     
     public static void main(String[]args) {
         
         Scanner input = new Scanner(System.in);
         System.out.print("Yükseklik Giriniz: ");
         int boy = input.nextInt();
+        int en = boy*4-3;
+        int orta = en/2+1;
         
-        if(boy>=3) //doğru değer girilip girilmediğini kontrol etme
+        if(boy>=3)
         {
-            for(int satir=0; satir<boy; satir++) //satır döngüsünü boy kadar çalıştır
+            for(int satir=0; satir<boy; satir++) //boy kadar satır oluşturma
             {
-                for(int sutun=0; sutun<boy; sutun++) //sütun döngüsünü boy kadar  çalıştır
+                for(int sutun=0; sutun<en; sutun++) //en kadar sütun oluşturma
                 {
-                    if((satir==0)||(satir==boy-1)) //en üst ve en alttaki yıldız pozisyonlarını hesapla ve yıldız yazdır
+                    if((satir==sutun)||(sutun==en-1-satir)) //en soldaki ve en sağdaki yıldızları yazdırma
                     {
                         System.out.print("*");
                     }
-                    else if(sutun==boy-1-satir) //ortadaki yıldız pozisyonlarını hesapla ve yıldız yazdır
+                    else if((sutun==orta-1-satir)||(sutun==orta-1+satir)) //ortadaki yıldızları yazdırma
                     {
                         System.out.print("*");
                     }

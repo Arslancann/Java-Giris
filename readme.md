@@ -33,3 +33,9 @@ Girilen sayı büyüklüğünde M yazdıran program.(Girilen sayı 3'e eşit bü
 11.Soru:
 Girilen sayı büyüklüğünde Z yazdıran program.(Girilen sayı 3'e eşit ve büyük olmalı)
 
+12.Soru:
+Girilen sayı büyüklüğünde V yazdıran program.(Girilen sayı 3'e eşit ve büyük olmalı)
+
+13.Soru:
+Girilen sayı büyüklüğünde W yazdıran program.(Girilen sayı 3'e eşit ve büyük olmalı)
+

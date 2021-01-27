@@ -39,3 +39,6 @@ Girilen sayı büyüklüğünde V yazdıran program.(Girilen sayı 3'e eşit ve 
 13.Soru:
 Girilen sayı büyüklüğünde W yazdıran program.(Girilen sayı 3'e eşit ve büyük olmalı)
 
+14.Soru:
+Verilen dizinin ortalamasını, max değerini, min değerini ve standart sapmasını hesaplayan program.
+

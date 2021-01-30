@@ -42,3 +42,30 @@ Girilen sayı büyüklüğünde W yazdıran program.(Girilen sayı 3'e eşit ve 
 14.Soru:
 Verilen dizinin ortalamasını, max değerini, min değerini ve standart sapmasını hesaplayan program.
 
+15.Soru:
+Verilen dizi içerisindeki herhangi iki sayının toplamı yine aynı dizideki bir sayıya eşitse true, yoksa false yazdıran program.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

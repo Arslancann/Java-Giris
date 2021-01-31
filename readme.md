@@ -45,7 +45,8 @@ Verilen dizinin ortalamasını, max değerini, min değerini ve standart sapmas�
 15.Soru:
 Verilen dizi içerisindeki herhangi iki sayının toplamı yine aynı dizideki bir sayıya eşitse true, yoksa false yazdıran program.
 
-
+16.Soru:
+Verilen dizinin medyanını bulan program.
 
 
 

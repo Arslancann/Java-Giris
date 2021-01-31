@@ -1,4 +1,4 @@
-public class Arrays_Boolean_Kontrol {
+public class ArraysBooleanKontrol {
     
     public static boolean toplamvarmi(int data[], int hedef) {
         

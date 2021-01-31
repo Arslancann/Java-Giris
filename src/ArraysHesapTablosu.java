@@ -1,4 +1,4 @@
-public class Arrays_Hesap_Tablosu {
+public class ArraysHesapTablosu {
     
     public static int ortalama(int data[]) {
         

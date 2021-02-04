@@ -48,6 +48,8 @@ Verilen dizi içerisindeki herhangi iki sayının toplamı yine aynı dizideki b
 16.Soru:
 Verilen dizinin medyanını bulan program.
 
+17.Soru:
+Verilen dizinin ilerlemeli toplamını hesaplayan program.
 
 
 

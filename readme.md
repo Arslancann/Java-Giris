@@ -54,6 +54,9 @@ Verilen dizinin ilerlemeli toplamını hesaplayan program.
 18.Soru:
 Verilen dizinin elemanlarını karıştıran program.
 
+19.Soru:
+Verilen dizinin elemanlarını karıştıran program.(for döngüsü ile yapılan versiyon)
+
 
 
 

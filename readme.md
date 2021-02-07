@@ -51,7 +51,8 @@ Verilen dizinin medyanını bulan program.
 17.Soru:
 Verilen dizinin ilerlemeli toplamını hesaplayan program.
 
-
+18.Soru:
+Verilen dizinin elemanlarını karıştıran program.
 
 
 

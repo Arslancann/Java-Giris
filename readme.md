@@ -57,10 +57,11 @@ Verilen dizinin elemanlarını karıştıran program.
 19.Soru:
 Verilen dizinin elemanlarını karıştıran program.(for döngüsü ile yapılan versiyon)
 
+20.Soru:
+Bir String Array , String alan ve Array içerisinde verilen String'in kaç tane olduğunu dönen program.
 
-
-
-
+21.Soru:
+Bir integer Array alan ve bu Array içerisinde kaç tane peşpeşe gelen değer olduğunu bulan program.
 
 
 

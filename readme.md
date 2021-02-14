@@ -63,8 +63,8 @@ Bir String Array , String alan ve Array içerisinde verilen String'in kaç tane 
 21.Soru:
 Bir integer Array alan ve bu Array içerisinde kaç tane peşpeşe gelen değer olduğunu bulan program.
 
-
-
+22.Soru:
+Bir Integer Array ve bir Integer alan ve geriye verilen Array’de verilen Integerden küçük değerleri Array olarak dönen metodu yazınız.
 
 
 
